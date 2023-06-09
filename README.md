@@ -23,8 +23,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/solution-using-html-and-css-3DCOvdNLMr)](https://www.frontendmentor.io/solutions/solution-using-html-and-css-3DCOvdNLMr)
+- Live Site URL: [[Add live site URL here](https://perfectshuffle.github.io/frontendmentor.io-Order-summary-component/)](https://perfectshuffle.github.io/frontendmentor.io-Order-summary-component/)
 
 <hr>
 
